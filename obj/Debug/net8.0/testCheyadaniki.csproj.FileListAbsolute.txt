@@ -1,0 +1,14 @@
+C:\Users\iray\Desktop\testfol\testCheyadaniki\bin\Debug\net8.0\testCheyadaniki.exe
+C:\Users\iray\Desktop\testfol\testCheyadaniki\bin\Debug\net8.0\testCheyadaniki.deps.json
+C:\Users\iray\Desktop\testfol\testCheyadaniki\bin\Debug\net8.0\testCheyadaniki.runtimeconfig.json
+C:\Users\iray\Desktop\testfol\testCheyadaniki\bin\Debug\net8.0\testCheyadaniki.dll
+C:\Users\iray\Desktop\testfol\testCheyadaniki\bin\Debug\net8.0\testCheyadaniki.pdb
+C:\Users\iray\Desktop\testfol\testCheyadaniki\obj\Debug\net8.0\testCheyadaniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iray\Desktop\testfol\testCheyadaniki\obj\Debug\net8.0\testCheyadaniki.AssemblyInfoInputs.cache
+C:\Users\iray\Desktop\testfol\testCheyadaniki\obj\Debug\net8.0\testCheyadaniki.AssemblyInfo.cs
+C:\Users\iray\Desktop\testfol\testCheyadaniki\obj\Debug\net8.0\testCheyadaniki.csproj.CoreCompileInputs.cache
+C:\Users\iray\Desktop\testfol\testCheyadaniki\obj\Debug\net8.0\testCheyadaniki.dll
+C:\Users\iray\Desktop\testfol\testCheyadaniki\obj\Debug\net8.0\refint\testCheyadaniki.dll
+C:\Users\iray\Desktop\testfol\testCheyadaniki\obj\Debug\net8.0\testCheyadaniki.pdb
+C:\Users\iray\Desktop\testfol\testCheyadaniki\obj\Debug\net8.0\testCheyadaniki.genruntimeconfig.cache
+C:\Users\iray\Desktop\testfol\testCheyadaniki\obj\Debug\net8.0\ref\testCheyadaniki.dll
